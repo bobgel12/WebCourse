@@ -1,0 +1,65 @@
+body{
+	background-color: DIMGRAY;
+	margin: 0;
+	font-family: 'Raleway', sans-serif;
+	text-transform: uppercase;
+}
+.box{
+	width: 30%;
+	background-color: green;
+	float: left;
+	padding-bottom: 30%;
+	margin: 1.66%;
+	border-radius: 10%;
+}
+.container{
+	width: 600px;
+	margin: 10px auto;
+}
+.nav{
+	width: 600px;
+ 	height: 22px;
+  	margin: 0 auto;
+}
+.button{
+	height: 22px;
+	font-size: 14px;
+	text-transform: uppercase;
+	padding:0;
+	border: 0;
+	background-color: ghostwhite;
+}
+.button:hover{
+	background-color: STEELBLUE;
+	color: white;
+}
+#reset{
+	float: left;
+	margin-left: 10px;
+}
+#easyBtn, #hardBtn{
+	float: right;
+	padding: 0 10px;
+}
+#noti{
+	float: left;
+	margin-left: 25%;
+}
+.outer{
+	color: "STEELBLUE";
+	width: 100%;
+	background-color: ghostwhite;
+	font-size: 14px;
+}
+h2{
+	margin: 0 auto;
+}
+h1{
+	text-align: center;
+	margin: 0;
+	padding-bottom: 10px;
+}
+.clicked{
+	background-color: STEELBLUE;
+	color: white;
+}
